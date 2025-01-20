@@ -7036,6 +7036,27 @@ __metadata:
   languageName: node
   linkType: hard
 
+"globe-access-client@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "globe-access-client@workspace:."
+  dependencies:
+    "@testing-library/jest-dom": "npm:^5.14.1"
+    "@testing-library/react": "npm:^13.0.0"
+    "@testing-library/user-event": "npm:^13.2.1"
+    "@types/jest": "npm:^27.0.1"
+    "@types/node": "npm:^16.7.13"
+    "@types/react": "npm:^18.0.0"
+    "@types/react-dom": "npm:^18.0.0"
+    "@types/react-simple-maps": "npm:^3"
+    react: "npm:^19.0.0"
+    react-dom: "npm:^19.0.0"
+    react-scripts: "npm:5.0.1"
+    react-simple-maps: "npm:^3.0.0"
+    typescript: "npm:^4.4.2"
+    web-vitals: "npm:^2.1.0"
+  languageName: unknown
+  linkType: soft
+
 "gopd@npm:^1.0.1, gopd@npm:^1.2.0":
   version: 1.2.0
   resolution: "gopd@npm:1.2.0"
@@ -9442,27 +9463,6 @@ __metadata:
   checksum: 10c0/5120171d4bdb1577764c5afa96e413353bff530d1b37081cb29cccc747f989eb1baf40574fe8e27060fc1aef72b59c042f72b9b208413de33bcf411343c69057
   languageName: node
   linkType: hard
-
-"my-app@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "my-app@workspace:."
-  dependencies:
-    "@testing-library/jest-dom": "npm:^5.14.1"
-    "@testing-library/react": "npm:^13.0.0"
-    "@testing-library/user-event": "npm:^13.2.1"
-    "@types/jest": "npm:^27.0.1"
-    "@types/node": "npm:^16.7.13"
-    "@types/react": "npm:^18.0.0"
-    "@types/react-dom": "npm:^18.0.0"
-    "@types/react-simple-maps": "npm:^3"
-    react: "npm:^19.0.0"
-    react-dom: "npm:^19.0.0"
-    react-scripts: "npm:5.0.1"
-    react-simple-maps: "npm:^3.0.0"
-    typescript: "npm:^4.4.2"
-    web-vitals: "npm:^2.1.0"
-  languageName: unknown
-  linkType: soft
 
 "mz@npm:^2.7.0":
   version: 2.7.0
